@@ -1,8 +1,6 @@
 
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
-
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+Link To Our Project(Plant Care App): https://cyberwarrior02.github.io/devfest2/
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
